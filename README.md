@@ -33,5 +33,5 @@ The dataset consists of 120 entries, each representing a hotel in Yerevan. The d
 
 ### Social Profiles ~~
 
-LinkedIn: https://www.linkedin.com/in/supriyanagpal
-Medium: https://medium.com/@thesupriyanagpal
+1. LinkedIn: https://www.linkedin.com/in/supriyanagpal
+2. Medium: https://medium.com/@thesupriyanagpal
