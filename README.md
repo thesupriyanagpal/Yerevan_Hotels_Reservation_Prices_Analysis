@@ -1,6 +1,6 @@
 # Yerevan Hotels Reservation Prices Analysis
 
-![dataset-cover](https://github.com/user-attachments/assets/8a8e9cdc-2b51-4ac9-93ea-beee63d11150)
+![dataset-cover](https://github.com/user-attachments/assets/83085227-f3eb-45e7-91d3-f18f876a6459)
 
 ## Author: <i><u>Supriya Nagpal</i>
 
