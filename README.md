@@ -6,8 +6,6 @@
 
 ## Author: <i><u>Supriya Nagpal</i>
 
-![Unlocking the Secrets of Hotel Pricing in Yerevan](https://github.com/user-attachments/assets/4d47a4a2-5b19-48b4-8171-5742a39598f2)
-
 #### Dataset Link: https://www.kaggle.com/datasets/gorororororo23/yerevan-hotels-reservation-prices/data
 
 
