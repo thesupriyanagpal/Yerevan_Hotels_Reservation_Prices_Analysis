@@ -1,4 +1,4 @@
-# Yerevan Hotels Reservation Prices
+# Yerevan Hotels Reservation Prices Analysis
 
 ![dataset-cover](https://github.com/user-attachments/assets/8a8e9cdc-2b51-4ac9-93ea-beee63d11150)
 
@@ -30,3 +30,8 @@ The dataset consists of 120 entries, each representing a hotel in Yerevan. The d
 11. Comfort: Customer rating of the hotel's comfort.
 12. Cleanliness: Customer rating of the hotel's cleanliness.
 13. Price Per Day($): The price per day in USD for staying at the hotel.
+
+### Social Profiles ~~
+
+LinkedIn: https://www.linkedin.com/in/supriyanagpal/
+Medium: https://medium.com/@thesupriyanagpal
